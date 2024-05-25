@@ -1,6 +1,6 @@
 Hi there 👋 My name is Sai Sreenivas Reddy Karra 
 ==================
-Computer Science Graduate from <img src="[https://www.slu.edu/marcom/tools-downloads/imgs/logomark/slu-logomark-blue-rgb.png](https://cs.slu.edu/~fritts/csci2400/SLU_logo_horz.png)" alt="drawing" width="20px"/>.
+Computer Science Graduate from <img src="https://cs.slu.edu/~fritts/csci2400/SLU_logo_horz.png" alt="drawing" width="20px"/>.
 ==================
 I am a skilled Data Engineer passionate about leveraging cutting-edge technologies to drive innovation and optimize products and solutions; looking for Software Engineer/Software Developer Internship in the Summer of 2024 and a Co-Op in the Fall of 2024. 
 
