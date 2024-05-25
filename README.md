@@ -1,4 +1,5 @@
-Hi there 👋 My name is Sai Sreenivas Reddy Karra 
+Hi there 👋 
+My name is Sai Sreenivas Reddy Karra 
 ==================
 Computer Science Graduate from <img src="https://www.slu.edu/marcom/tools-downloads/imgs/logomark/slu-logomark-blue-rgb.png" alt="drawing" width="20px"/> Saint Louis University (SLU).
 ==================
