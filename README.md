@@ -15,7 +15,7 @@ Furthermore, my research experience in Predicting Malicious Activity in Android 
 I am eager to contribute my skills and expertise to a dynamic organization that values innovation and growth. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
 
 * 🌍  I'm based in the United States 
-* 🖥  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sai-sreenivas-reddy-k/) 
+* 🖥  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sai-sreenivas-reddy-k/)
 * ✉  You can contact me at [srivatsava.sai@gmail.com](mailto:srivatsava.sai@gmail.com) 
 * 🤝  I'm open to collaborating on Automating the boring and tedious tasks and work on any full stack projects related to Java.
 
@@ -29,8 +29,8 @@ I am eager to contribute my skills and expertise to a dynamic organization that 
 
 ### My GitHub Stats
 
-<a href="https://github.com/sreenivas98"><img src="https://github-readme-stats.vercel.app/api?username=sreenivas98&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=84cc16&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sakethanne's GitHub stats" /></a>
-<a href="https://github.com/sreenivas98"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sreenivas98&stroke=84cc16&background=1c1917&ring=f97316&fire=f97316&currStreakNum=84cc16&currStreakLabel=f97316&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<a href="https://github.com/sreenivas98"><img src="https://github-readme-stats.vercel.app/api?username=sreenivas98&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=84cc16&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sreenivas98's GitHub stats" /></a>
+<a href="https://github.com/sreenivas98"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreenivas98&stroke=84cc16&background=1c1917&ring=f97316&fire=f97316&currStreakNum=84cc16&currStreakLabel=f97316&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
 <!--
 **sreenivas98/sreenivas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
