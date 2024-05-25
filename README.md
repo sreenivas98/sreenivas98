@@ -14,7 +14,7 @@ Furthermore, my research experience in Predicting Malicious Activity in Android 
 
 I am eager to contribute my skills and expertise to a dynamic organization that values innovation and growth. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
 
-* 🌍  I'm based in the United States 
+* 🌍  I'm based in the California, United States 
 * 🖥  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sai-sreenivas-reddy-k/)
 * ✉  You can contact me at [srivatsava.sai@gmail.com](mailto:srivatsava.sai@gmail.com) 
 * 🤝  I'm open to collaborating on Automating the boring and tedious tasks and work on any full stack projects related to Java.
@@ -25,7 +25,7 @@ I am eager to contribute my skills and expertise to a dynamic organization that 
 
 ### Socials  
 
-<p align="left"> <a href="https://github.com/sreenivas98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/sreenivas_karra/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sai-sreenivas-reddy-k/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/sreenivas98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/sreenivas_karra/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sai-sreenivas-reddy-k/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://leetcode.com/u/Sreenivas_98/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" width="32" height="32" /></a></p>
 
 ### My GitHub Stats
 
