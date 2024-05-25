@@ -1,6 +1,6 @@
 Hi there 👋 My name is Sai Sreenivas Reddy Karra 
 ==================
-Computer Science Graduate from Saint Louis University ( <img src="https://www.slu.edu/marcom/tools-downloads/imgs/logomark/slu-logomark-blue-rgb.png" alt="SLU logo" width="22vw"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8-O7gdgy627aMy4Nrc-hGT4ABKRhbpf51xFheh1bLg&s" alt="SLU logo" width="65vw"/> ).
+Computer Science Graduate from Saint Louis University ( <img src="https://www.slu.edu/marcom/tools-downloads/imgs/logomark/slu-logomark-blue-rgb.png" alt="SLU logo" width="20vw"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8-O7gdgy627aMy4Nrc-hGT4ABKRhbpf51xFheh1bLg&s" alt="SLU logo" width="60vw"/> ).
 ==================
 I am a skilled Data Engineer passionate about leveraging cutting-edge technologies to drive innovation and optimize products and solutions; looking for Software Engineer/Software Developer Internship in the Summer of 2024 and a Co-Op in the Fall of 2024. 
 
