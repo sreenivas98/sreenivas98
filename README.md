@@ -30,7 +30,7 @@ I am eager to contribute my skills and expertise to a dynamic organization that 
 ### My GitHub Stats
 
 <a href="https://github.com/sreenivas98"><img src="https://github-readme-stats.vercel.app/api?username=sreenivas98&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=84cc16&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sreenivas98's GitHub stats" /></a>
-<a href="https://github.com/sreenivas98"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sreenivas98&stroke=84cc16&background=1c1917&ring=f97316&fire=f97316&currStreakNum=84cc16&currStreakLabel=f97316&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true%22%C2%A0/%3E" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreenivas98&stroke=84cc16&background=1c1917&ring=f97316&fire=f97316&currStreakNum=84cc16&currStreakLabel=f97316&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true%22%C2%A0/%3E"/>
 
 <!--
 **sreenivas98/sreenivas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
