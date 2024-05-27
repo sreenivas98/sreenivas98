@@ -2,17 +2,15 @@ Hi there 👋 My name is Sai Sreenivas Reddy Karra
 ==================
 Computer Science Graduate from Saint Louis University ( <img src="https://www.slu.edu/marcom/tools-downloads/imgs/logomark/slu-logomark-blue-rgb.png" alt="SLU logo" width="20vw"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8-O7gdgy627aMy4Nrc-hGT4ABKRhbpf51xFheh1bLg&s" alt="SLU logo" width="60vw"/> ).
 ==================
-I am a skilled Data Engineer passionate about leveraging cutting-edge technologies to drive innovation and optimize products and solutions; looking for Software Engineer/Software Developer Internship in the Summer of 2024 and a Co-Op in the Fall of 2024. 
+I am a skilled Software Developer with over two years of experience in web application design, development, testing, and documentation, specializing in Java and J2EE technologies. My skills include object-oriented programming, CI/CD pipelines, and frameworks like Spring and Hibernate. I am proficient in Microservices architecture, RESTful APIs, and database management with Oracle and MySQL, and I also have experience with Python, machine learning, and C#/.NET.
 
-Currently pursuing a Master of Science in Computer Science from the University of Southern California (USC), Expected to graduate in December 2024. I bring to the table a solid academic foundation and three years of practical industry experience.
+At Wipro, I began as a Software Engineer (August 2019 - December 2019), focusing on Java debugging and collaborating with senior developers to implement best practices. I then advanced to Java Developer (January 2020 - December 2021), where I improved application performance through debugging, developed automated testing suites, mentored junior developers, and ensured alignment with business goals.
 
-In my previous role at General Electric (GE), I spearheaded the development of scalable cloud-native products, resulting in a 90% increase in cloud admin teams' productivity. I architected and implemented a real-time monitoring framework, reducing person-hours by 80%. Additionally, I played a pivotal role in automating cloud infrastructure provisioning and access control pipelines, significantly reducing project creation and deployment time.
+I am well-versed in various technologies and tools, including Java, Python, C#, SQL, Spring Boot, Microservices, RESTful APIs, HTML, JavaScript, React JS, and AWS. My professional skills include leadership, teamwork, problem-solving, collaboration, and a strong desire to learn and mentor.
 
-I possess a solid technical skill set, including Python, Java, Data Structures and Algorithms, Object Oriented Programming, and Amazon Web Services (AWS) with proficiency in Full-stack development, REST API development, Agile methodologies, Software development lifecycles, and Web technologies.
+I hold a Master’s Degree in Computer Science from Saint Louis University (2023) and a Bachelor’s Degree in Computer Science and Engineering from Kakatiya Institute of Technology and Science, India (2019).
 
-Furthermore, my research experience in Predicting Malicious Activity in Android using Machine Learning and NLP-driven Political Analysis of Subreddits demonstrates my ability to apply advanced techniques to solve real-world challenges and make an impact.
-
-I am eager to contribute my skills and expertise to a dynamic organization that values innovation and growth. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
+I am passionate about full stack development and eager to collaborate on innovative projects, believing in the power of teamwork and continuous learning. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
 
 * 🌍  I'm based in the California, United States 
 * 🖥  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sai-sreenivas-reddy-k/)
