@@ -23,7 +23,7 @@ I am passionate about full stack development and eager to collaborate on innovat
 
 ### Certifications
 
-<p align="left"><a href="https://www.credly.com/badges/cdc814fe-cf1b-48c5-b8e2-8b2196b39130/linked_in_profile" target="_blank" rel="noreferrer"><img src="aws-certified-developer-associate.png" width="36" height="36" alt="AWS Certified Developer Associate"/>AWS Certified Developer Associate</a> </p>
+<p align="left"><a href="https://www.credly.com/badges/cdc814fe-cf1b-48c5-b8e2-8b2196b39130/linked_in_profile" target="_blank" rel="noreferrer"><img src="aws-certified-developer-associate.png" width="50" height="50" alt="AWS Certified Developer Associate"/></a> </p>
 
 ### Socials  
 
