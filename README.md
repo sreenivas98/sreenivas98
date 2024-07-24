@@ -6,6 +6,8 @@ I am a skilled Software Developer with over two years of experience in web appli
 
 At Wipro, I began as a Software Engineer (August 2019 - December 2019), focusing on Java debugging and collaborating with senior developers to implement best practices. I then advanced to Java Developer (January 2020 - December 2021), where I improved application performance through debugging, developed automated testing suites, mentored junior developers, and ensured alignment with business goals.
 
+Currently, I am working as a Java Full-Stack Developer at IMetaVerse Inc (January 2023 – present). In this role, I have developed and deployed a microservices-based web application using Java, Spring Boot, and React JS, achieving a scalable and responsive system. I have implemented RESTful APIs and web services to enhance system performance and user experience and utilized object-oriented programming principles to optimize database operations, resulting in significant performance improvements. I collaborate with cross-functional teams using Agile methodologies and Jira, ensuring timely delivery of features and functionalities, and ensure seamless integration between frontend and backend components.
+
 I am well-versed in various technologies and tools, including Java, Python, C#, SQL, Spring Boot, Microservices, RESTful APIs, HTML, JavaScript, React JS, and AWS. My professional skills include leadership, teamwork, problem-solving, collaboration, and a strong desire to learn and mentor.
 
 I hold a Master’s Degree in Computer Science from Saint Louis University (2023) and a Bachelor’s Degree in Computer Science and Engineering from Kakatiya Institute of Technology and Science, India (2019).
