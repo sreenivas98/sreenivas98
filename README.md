@@ -12,7 +12,7 @@ I hold a Master’s Degree in Computer Science from Saint Louis University (2023
 
 I am passionate about full stack development and eager to collaborate on innovative projects, believing in the power of teamwork and continuous learning. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
 
-* 🌍  I'm based in the California, United States 
+* 🌍  I'm based in California, United States 
 * 🖥  See my portfolio at [Portfolio](https://sreenivas98.github.io/my-portfolio)
 * ✉  You can contact me at [srivatsava.sai@gmail.com](mailto:srivatsava.sai@gmail.com) 
 * 🤝  I'm open to collaborating on Automating the boring and tedious tasks and work on any full stack projects related to Java, Python, C# or JavaScript.
