@@ -2,22 +2,20 @@ Hi there 👋 My name is Sai Sreenivas Reddy Karra
 ==================
 Computer Science Graduate from Saint Louis University ( <img src="https://www.slu.edu/marcom/tools-downloads/imgs/logomark/slu-logomark-blue-rgb.png" alt="SLU logo" width="20vw"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8-O7gdgy627aMy4Nrc-hGT4ABKRhbpf51xFheh1bLg&s" alt="SLU logo" width="60vw"/> ).
 ==================
-I am a skilled Software Developer with over two years of experience in web application design, development, testing, and documentation, specializing in Java and J2EE technologies. My skills include object-oriented programming, CI/CD pipelines, and frameworks like Spring and Hibernate. I am proficient in Microservices architecture, RESTful APIs, and database management with Oracle and MySQL, and I also have experience with Python, machine learning, and C#/.NET.
+I am a skilled Software Developer with over one and half years of experience in web application design, development, testing, and documentation, specializing in Java and J2EE technologies. My skills include object-oriented programming, CI/CD pipelines, and frameworks like Spring and Hibernate. I am proficient in Microservices architecture, RESTful APIs, and database management with Oracle and MySQL, and I also have experience with Python, machine learning, and C#/.NET.
 
-At Wipro, I began as a Software Engineer (August 2019 - December 2019), focusing on Java debugging and collaborating with senior developers to implement best practices. I then advanced to Java Developer (January 2020 - December 2021), where I improved application performance through debugging, developed automated testing suites, mentored junior developers, and ensured alignment with business goals.
+At Wipro, I began as a Software Engineer Intern (April 2020 - October 2020), focusing on Java debugging and collaborating with senior developers to implement best practices. I then advanced to Java Full-Stack Developer (October 2020 - December 2021), where I have worked on developing and deploying a microservices-based web application using Java, Spring Boot, and React JS, achieving a scalable and responsive system. I have implemented RESTful APIs and web services to enhance system performance and user experience and utilized object-oriented programming principles to optimize database operations, resulting in significant performance improvements. I collaborated with cross-functional teams using Agile methodologies and Jira, ensuring timely delivery of features and functionalities, and ensured seamless integration between frontend and backend components.
 
-Currently, I am working as a Java Full-Stack Developer at IMetaVerse Inc (January 2023 – present). In this role, I have developed and deployed a microservices-based web application using Java, Spring Boot, and React JS, achieving a scalable and responsive system. I have implemented RESTful APIs and web services to enhance system performance and user experience and utilized object-oriented programming principles to optimize database operations, resulting in significant performance improvements. I collaborate with cross-functional teams using Agile methodologies and Jira, ensuring timely delivery of features and functionalities, and ensure seamless integration between frontend and backend components.
+I am well-versed in various technologies and tools, including Java, Python, C#, SQL, Spring Framework, Microservices, RESTful APIs, HTML, JavaScript, React JS, and AWS. My professional skills include leadership, teamwork, problem-solving, collaboration, and a strong desire to learn and mentor.
 
-I am well-versed in various technologies and tools, including Java, Python, C#, SQL, Spring Boot, Microservices, RESTful APIs, HTML, JavaScript, React JS, and AWS. My professional skills include leadership, teamwork, problem-solving, collaboration, and a strong desire to learn and mentor.
-
-I hold a Master’s Degree in Computer Science from Saint Louis University (2023) and a Bachelor’s Degree in Computer Science and Engineering from Kakatiya Institute of Technology and Science, India (2019).
+I hold a Master’s Degree in Computer Science from Saint Louis University (2023) and a Bachelor’s Degree in Computer Science and Engineering from Kakatiya Institute of Technology and Science, India (2020).
 
 I am passionate about full stack development and eager to collaborate on innovative projects, believing in the power of teamwork and continuous learning. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
 
 * 🌍  I'm based in the California, United States 
-* 🖥  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sai-sreenivas-reddy-k/)
+* 🖥  See my portfolio at [Portfolio](https://sreenivas98.github.io/my-portfolio)
 * ✉  You can contact me at [srivatsava.sai@gmail.com](mailto:srivatsava.sai@gmail.com) 
-* 🤝  I'm open to collaborating on Automating the boring and tedious tasks and work on any full stack projects related to Java.
+* 🤝  I'm open to collaborating on Automating the boring and tedious tasks and work on any full stack projects related to Java, Python, C# or JavaScript.
 
 ### Skills  
 
