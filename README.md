@@ -12,7 +12,7 @@ I hold a Master’s Degree in Computer Science from Saint Louis University (2023
 
 I am passionate about full stack development and eager to collaborate on innovative projects, believing in the power of teamwork and continuous learning. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
 
-* 🌍  I'm based in California, United States 
+* 🌍  I'm based in Irvine, CA. 
 * 🖥  See my portfolio at [Portfolio](https://sreenivas98.github.io/my-portfolio)
 * ✉  You can contact me at [srivatsava.sai@gmail.com](mailto:srivatsava.sai@gmail.com) 
 * 🤝  I'm open to collaborating on Automating the boring and tedious tasks and work on any full stack projects related to Java, Python, C# or JavaScript.
@@ -24,6 +24,14 @@ I am passionate about full stack development and eager to collaborate on innovat
 ### Certifications
 
 <p align="left"><a href="https://www.credly.com/badges/cdc814fe-cf1b-48c5-b8e2-8b2196b39130/linked_in_profile" target="_blank" rel="noreferrer"><img src="aws-certified-developer-associate.png" width="150" height="150" alt="AWS Certified Developer Associate"/></a> </p>
+
+### PERSONAL PROJECTS
+ 
+Portfolio Website (SPA): This SPA portfolio website includes a Home Page, About Page, Projects Page, and Resume Page, all crafted with React JS, HTML and CSS for a sleek, responsive design. ( TechStack Used - React JS, HTML, CSS ).
+MNIST Digit Classifier: Developed and trained various machine learning models, including deep neural networks and decision trees, to classify handwritten digits. Designed a React frontend and Python backend using Flask Web Services Framework. ( TechStack Used - Python, Flask, React, numpy, pandas, pickle, sklearn, keras).
+Drone Plane Remote iOS Application: Built an iOS app with React Native to control drones and designed a Flask backend to handle commands and communication. ( TechStack Used - React Native, Python, Flask WebService Framework, Dronekit library ).
+Weather Prediction Windows Application: Built a standalone windows app using Java that gets either the zip code or city name from the user and displays current weather in that place by querying a 3rd party weather api. (TechStack Used: Java ).
+
 
 ### Socials  
 
