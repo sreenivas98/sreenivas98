@@ -2,15 +2,15 @@ Hi there 👋 My name is Sai Sreenivas Reddy Karra
 ==================
 Computer Science Graduate from Saint Louis University ( <img src="https://www.slu.edu/marcom/tools-downloads/imgs/logomark/slu-logomark-blue-rgb.png" alt="SLU logo" width="20vw"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8-O7gdgy627aMy4Nrc-hGT4ABKRhbpf51xFheh1bLg&s" alt="SLU logo" width="60vw"/> ).
 ==================
-I am a skilled Software Developer with over one and half years of experience in web application design, development, testing, and documentation, specializing in Java and J2EE technologies. My skills include object-oriented programming, CI/CD pipelines, and frameworks like Spring and Hibernate. I am proficient in Microservices architecture, RESTful APIs, and database management with Oracle and MySQL, and I also have experience with Python, machine learning, and C#/.NET.
+Hello! I’m Sai Sreenivas Reddy Karra, a dedicated Full-Stack Developer with a passion for crafting scalable, efficient, and innovative solutions. With a strong foundation in both front-end and back-end development, my expertise spans a range of technologies and methodologies that enable me to build dynamic, high-performance applications.
 
-At Wipro, I began as a Software Engineer Intern, focusing on Java debugging and collaborating with senior developers to implement best practices. I then advanced to Full-Stack Developer, where I have worked on developing and deploying a microservices-based web application using Java, Spring Boot, and React JS, achieving a scalable and responsive system. I have implemented RESTful APIs and web services to enhance system performance and user experience and utilized object-oriented programming principles to optimize database operations, resulting in significant performance improvements. I collaborated with cross-functional teams using Agile methodologies and Jira, ensuring timely delivery of features and functionalities, and ensured seamless integration between frontend and backend components.
+I specialize in designing and implementing full-stack solutions using a diverse technology stack, including Java, Spring Boot, React/Redux, Vue.js, and Node.js. My experience encompasses creating responsive and scalable web applications, designing robust RESTful APIs, and managing databases to ensure data integrity and performance.
 
-I am well-versed in various technologies and tools, including Java, Python, C#, SQL, Spring Framework, Microservices, RESTful APIs, HTML, JavaScript, React JS, and AWS. My professional skills include leadership, teamwork, problem-solving, collaboration, and a strong desire to learn and mentor.
+I’m also well-versed in cloud computing with AWS, where I leverage services like EC2, Lambda, API Gateway, and S3 to enhance application scalability, reliability, and performance. My expertise extends to continuous integration and deployment (CI/CD) using Jenkins, automating testing processes with tools like Selenium and Storybook, and employing Git for version control to maintain code quality and foster team collaboration.
 
-I hold a Master’s Degree in Computer Science from Saint Louis University (2023) and a Bachelor’s Degree in Computer Science and Engineering from Kakatiya Institute of Technology and Science, India (2020).
+My approach to development is driven by a commitment to continuous learning and improvement. I focus on delivering solutions that are not only functional but also optimized for performance and scalability. I enjoy collaborating with cross-functional teams, employing Agile methodologies to streamline processes and adapt to evolving project requirements.
 
-I am passionate about full stack development and eager to collaborate on innovative projects, believing in the power of teamwork and continuous learning. Please feel free to reach out to me on LinkedIn to talk about opportunities or project collaborations.
+I’m always open to new challenges and opportunities to grow as a developer. Whether you’re interested in discussing a potential collaboration, exploring new technologies, or just exchanging ideas, feel free to connect with me. Explore my repositories to see some of the projects I’ve worked on and get a sense of my approach to problem-solving and innovation.
 
 * 🌍  I'm based in Irvine, CA. 
 * 🖥  See my portfolio at [Portfolio](https://sreenivas98.github.io/my-portfolio)
@@ -27,10 +27,11 @@ I am passionate about full stack development and eager to collaborate on innovat
 
 ### PERSONAL PROJECTS
  
-Portfolio Website (SPA): This SPA portfolio website includes a Home Page, About Page, Projects Page, and Resume Page, all crafted with React JS, HTML and CSS for a sleek, responsive design. ( TechStack Used - React JS, HTML, CSS ).
-MNIST Digit Classifier: Developed and trained various machine learning models, including deep neural networks and decision trees, to classify handwritten digits. Designed a React frontend and Python backend using Flask Web Services Framework. ( TechStack Used - Python, Flask, React, numpy, pandas, pickle, sklearn, keras).
-Drone Plane Remote iOS Application: Built an iOS app with React Native to control drones and designed a Flask backend to handle commands and communication. ( TechStack Used - React Native, Python, Flask WebService Framework, Dronekit library ).
-Weather Prediction Windows Application: Built a standalone windows app using Java that gets either the zip code or city name from the user and displays current weather in that place by querying a 3rd party weather api. (TechStack Used: Java ).
+<ul>
+ <li>Portfolio Website (SPA): This SPA portfolio website includes a Home Page, About Page, Projects Page, and Resume Page, all crafted with React JS, HTML and CSS for a sleek, responsive design. ( TechStack Used - React JS, HTML, CSS ).</li>
+ <li>MNIST Digit Classifier: Developed and trained various machine learning models, including deep neural networks and decision trees, to classify handwritten digits. Designed a React frontend and Python backend using Flask Web Services Framework. ( TechStack Used - Python, Flask, React, numpy, pandas, pickle, sklearn, keras).</li>
+ <li>Drone Plane Remote iOS Application: Built an iOS app with React Native to control drones and designed a Flask backend to handle commands and communication. ( TechStack Used - React Native, Python, Flask WebService Framework, Dronekit library ).</li>
+ <li>Weather Prediction Windows Application: Built a standalone windows app using Java that gets either the zip code or city name from the user and displays current weather in that place by querying a 3rd party weather api. (TechStack Used: Java ).</li>
 
 
 ### Socials  
