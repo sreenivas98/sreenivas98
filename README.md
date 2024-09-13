@@ -25,7 +25,7 @@ I’m always open to new challenges and opportunities to grow as a developer. Wh
 
 <p align="left"><a href="https://www.credly.com/badges/cdc814fe-cf1b-48c5-b8e2-8b2196b39130/linked_in_profile" target="_blank" rel="noreferrer"><img src="aws-certified-developer-associate.png" width="150" height="150" alt="AWS Certified Developer Associate"/></a> </p>
 
-### PERSONAL PROJECTS
+### Personal Projects
  
 <ul>
  <li>Portfolio Website (SPA): This SPA portfolio website includes a Home Page, About Page, Projects Page, and Resume Page, all crafted with React JS, HTML and CSS for a sleek, responsive design. ( TechStack Used - React JS, HTML, CSS ).</li>
