@@ -1,6 +1,6 @@
 Hi there 👋 My name is Sai Sreenivas Reddy Karra 
 ==================
-Computer Science Graduate from Saint Louis University ( <img src="https://www.slu.edu/marcom/tools-downloads/imgs/logomark/slu-logomark-blue-rgb.png" alt="SLU logo" width="20vw"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8-O7gdgy627aMy4Nrc-hGT4ABKRhbpf51xFheh1bLg&s" alt="SLU logo" width="60vw"/> ).
+Computer Science Graduate from Saint Louis University ( <img src="https://www.slu.edu/marcom/tools-downloads/-img/logomark/slu-logomark-blue-rgb.png" alt="SLU logo" width="20vw"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8-O7gdgy627aMy4Nrc-hGT4ABKRhbpf51xFheh1bLg&s" alt="SLU logo" width="60vw"/> ).
 ==================
 Hello! I’m Sai Sreenivas Reddy Karra, a dedicated Full-Stack Developer with a passion for crafting scalable, efficient, and innovative solutions. With a strong foundation in both front-end and back-end development, my expertise spans a range of technologies and methodologies that enable me to build dynamic, high-performance applications.
 
