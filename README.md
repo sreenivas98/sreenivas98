@@ -46,7 +46,12 @@ I’m always open to new challenges and opportunities to grow as a developer. Wh
 ##### Node.js CRUD API on Sample Products Collection
 - **Technologies**: Node.js, Express.js, MongoDB, JSON
 - **Description**: Developed a RESTful API using Node.js and Express.js to manage a products collection in MongoDB, enabling Create, Read, Update, and Delete (CRUD) operations. Utilized middleware for JSON parsing and URL-encoded data handling to streamline request processing.
-- **Source code**: <a href="https://github.com/sreenivas98/NodeAPI" target="_blank" rel="noopener noreferrer">NodeAPI source code</a>
+- **Source code**: <a href="https://github.com/sreenivas98/NodeAPI" target="_blank" rel="noopener noreferrer">Book store source code</a>
+
+##### Book_Store_API with JWT based authentication
+- **Technologies**: Node.js, Express.js, JSON, JWT
+- **Description**: This RESTful API supports book browsing, user registration, login, and review management for an online bookstore. Public users can explore available books by author, title, or ISBN, while registered users can securely add, update, or delete reviews. JWT tokens authenticate user sessions, ensuring only authorized access to review-related routes. Built with Node.js, Express, and MongoDB, this API includes route-specific authorization middleware and CRUD operations, providing a secure and scalable foundation for an online book store application.
+- **Source code**: <a href="https://github.com/sreenivas98/Book_Reviews_API" target="_blank" rel="noopener noreferrer">NodeAPI source code</a>
 
 ##### Weather Prediction Windows Application
 - **Technologies**: C#, .NET
