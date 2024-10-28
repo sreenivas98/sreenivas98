@@ -27,24 +27,31 @@ I’m always open to new challenges and opportunities to grow as a developer. Wh
 
 ### Personal Projects
  
-<ul>
- <li>Portfolio Website (SPA): This SPA portfolio website includes a Home Page, About Page, Projects Page, and Resume Page, all crafted with React JS, HTML and CSS for a sleek, responsive design. ( TechStack Used - React JS, HTML, CSS ).</li>
- <li>MNIST Digit Classifier: Developed and trained various machine learning models, including deep neural networks and decision trees, to classify handwritten digits. Designed a React frontend and Python backend using Flask Web Services Framework. ( TechStack Used - Python, Flask, React, numpy, pandas, pickle, sklearn, keras).</li>
- <li>Drone Plane Remote iOS Application: Built an iOS app with React Native to control drones and designed a Flask backend to handle commands and communication. ( TechStack Used - React Native, Python, Flask WebService Framework, Dronekit library ).</li>
- <li>Weather Prediction Windows Application: Built a standalone windows app using Java that gets either the zip code or city name from the user and displays current weather in that place by querying a 3rd party weather api. (TechStack Used: Java ).</li>
-</ul>
+##### Portfolio Website (SPA)
+- **Technologies**: React JS, HTML, CSS
+- **Description**: Built a SPA portfolio website which includes a Home Page, About Page, Projects Page, and Resume Page, all crafted with React JS, HTML and CSS for a sleek, responsive design.
+- **Source code**: <a href="https://github.com/sreenivas98/my-portfolio" target="_blank" rel="noopener noreferrer">Portfolio source code</a>
+- **Demo link**: <a href="https://sreenivas98.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer">Sai Sreenivas Reddy Karra | Portfolio</a>
 
 ##### MNIST Digit Classifier
 - **Technologies**: Python, Flask, React, Python Libraries (numpy, pandas, pickle, sklearn, keras)
 - **Description**: Developed and trained various machine learning models, including deep neural networks and decision trees, to classify handwritten digits. Designed a React frontend and Python backend using the Flask Web Services Framework.
+- **Source code**: <a href="https://github.com/sreenivas98/MNIST-Digit-Classification" target="_blank" rel="noopener noreferrer">ML models source code</a>
 
 ##### Drone Plane Remote iOS Application
 - **Technologies**: React Native, Python, Flask Webservice Framework, Dronekit library
 - **Description**: Built an iOS app with React Native to control drones. Designed a Flask backend to handle commands and communication.
+- **Source code**: <a href="https://github.com/sreenivas98/ArduPlane_Controller_IOS_app" target="_blank" rel="noopener noreferrer">Full app source code</a>
 
 ##### Node.js CRUD API on Sample Products Collection
 - **Technologies**: Node.js, Express.js, MongoDB, JSON
 - **Description**: Developed a RESTful API using Node.js and Express.js to manage a products collection in MongoDB, enabling Create, Read, Update, and Delete (CRUD) operations. Utilized middleware for JSON parsing and URL-encoded data handling to streamline request processing.
+- **Source code**: <a href="https://github.com/sreenivas98/NodeAPI" target="_blank" rel="noopener noreferrer">NodeAPI source code</a>
+
+##### Weather Prediction Windows Application
+- **Technologies**: C#, .NET
+- **Description**: Built a standalone windows app using C# that gets either the zip code or city name from the user and displays current weather in that place by querying a 3rd party weather api.
+- **Source code**: <a href="https://github.com/sreenivas98/Weather_predictor" target="_blank" rel="noopener noreferrer">Weather app source code</a>
 
 ### Socials  
 
