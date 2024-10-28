@@ -32,7 +32,22 @@ I’m always open to new challenges and opportunities to grow as a developer. Wh
  <li>MNIST Digit Classifier: Developed and trained various machine learning models, including deep neural networks and decision trees, to classify handwritten digits. Designed a React frontend and Python backend using Flask Web Services Framework. ( TechStack Used - Python, Flask, React, numpy, pandas, pickle, sklearn, keras).</li>
  <li>Drone Plane Remote iOS Application: Built an iOS app with React Native to control drones and designed a Flask backend to handle commands and communication. ( TechStack Used - React Native, Python, Flask WebService Framework, Dronekit library ).</li>
  <li>Weather Prediction Windows Application: Built a standalone windows app using Java that gets either the zip code or city name from the user and displays current weather in that place by querying a 3rd party weather api. (TechStack Used: Java ).</li>
+</ul>
 
+#### MNIST Digit Classifier
+- **Technologies**: Python, Flask, React, Python Libraries (numpy, pandas, pickle, sklearn, keras)
+- **Description**: Developed and trained various machine learning models, including deep neural networks and decision trees, to classify handwritten digits.
+- **Details**: Designed a React frontend and Python backend using the Flask Web Services Framework.
+
+#### Drone Plane Remote iOS Application
+- **Technologies**: React Native, Python, Flask Webservice Framework, Dronekit library
+- **Description**: Built an iOS app with React Native to control drones.
+- **Details**: Designed a Flask backend to handle commands and communication.
+
+#### Node.js CRUD API on Sample Products Collection
+- **Technologies**: Node.js, Express.js, MongoDB, JSON
+- **Description**: Developed a RESTful API using Node.js and Express.js to manage a products collection in MongoDB, enabling Create, Read, Update, and Delete (CRUD) operations.
+- **Details**: Utilized middleware for JSON parsing and URL-encoded data handling to streamline request processing.
 
 ### Socials  
 
